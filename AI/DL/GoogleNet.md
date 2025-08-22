@@ -1,0 +1,1 @@
+CNN의 일종으로, Google + LeNet의 합성어이다.

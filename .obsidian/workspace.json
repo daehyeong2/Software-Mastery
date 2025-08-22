@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "26c11881db6aee4f",
+        "id": "17a2f0c262f1f2be",
         "type": "tabs",
         "children": [
           {
-            "id": "03929a4fbcb43617",
+            "id": "35d0409184dc5e1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Spring/JPA/Multi-Tenancy.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.9.10"
               },
-              "icon": "lucide-file",
-              "title": "Multi-Tenancy"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
         ]
@@ -160,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -169,15 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03929a4fbcb43617",
+  "active": "35d0409184dc5e1a",
   "lastOpenFiles": [
-    "ML/BERT 논문 리뷰.md",
-    "Java/직렬화, 역직렬화.md",
+    "AI/DL/GoogleNet.md",
+    "AI/DL/VGGNet.md",
+    "AI/DL/CNN (Convolutional Neural Network).md",
+    "AI/DL/GoogleNet",
     "Spring/JPA/Multi-Tenancy.md",
+    "AI/Untitled",
+    "AI/DL",
+    "AI",
+    "AI/ML/BERT 논문 리뷰.md",
+    "Java/직렬화, 역직렬화.md",
     "Java/serialVersionUID란.md",
     "React/모노 레포지토리.md",
     "ff.md",
-    "ML",
+    "AI/ML",
     "Spring/JPA/영속성 컨텍스트란.md",
     "Spring/@Bean과 @Component의 차이.md",
     "React",
@@ -188,7 +194,6 @@
     "Spring/JPA",
     "images/Pasted image 20250710231012.png",
     "Welcome.md",
-    "Spring/Multi-Tenancy",
-    "Spring"
+    "Spring/Multi-Tenancy"
   ]
 }
