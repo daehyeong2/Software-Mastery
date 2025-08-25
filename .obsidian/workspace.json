@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DL/Object Detection.md",
+                "file": "AI/DL/Faster R-CNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object Detection"
+              "title": "Faster R-CNN"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "35d0409184dc5e1a",
   "lastOpenFiles": [
-    "AI/DL/VGGNet.md",
     "AI/DL/Object Detection.md",
+    "AI/DL/Faster R-CNN.md",
+    "AI/DL/VGGNet.md",
     "AI/DL/CNN (Convolutional Neural Network).md",
     "AI/DL/GoogleNet.md",
     "AI/DL/GoogleNet",
