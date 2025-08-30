@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Optimization"
             }
+          },
+          {
+            "id": "e1c2e1979867580c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35d0409184dc5e1a",
+  "active": "e1c2e1979867580c",
   "lastOpenFiles": [
     "AI/DL/모델 평가 지표.md",
     "AI/DL/Optimization.md",
