@@ -25,12 +25,14 @@
             "id": "e1c2e1979867580c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "AI/Data/Over Sampling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Over Sampling"
             }
           }
         ],
@@ -195,10 +197,11 @@
   },
   "active": "e1c2e1979867580c",
   "lastOpenFiles": [
-    "AI/DL/모델 평가 지표.md",
-    "AI/DL/Optimization.md",
+    "AI/Data/Under Sampling.md",
     "AI/Data/Over Sampling.md",
     "AI/Data/클래스 불균형.md",
+    "AI/DL/모델 평가 지표.md",
+    "AI/DL/Optimization.md",
     "AI/DL/CNN (Convolutional Neural Network).md",
     "AI/DL/VGGNet.md",
     "AI/DL/Object Detection.md",
