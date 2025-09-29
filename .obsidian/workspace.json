@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/NLP/BERT.md",
+                "file": "AI/DL/Faster R-CNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BERT"
+              "title": "Faster R-CNN"
             }
           }
         ]
@@ -180,11 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49e6626fb7af3929",
+  "active": "35d0409184dc5e1a",
   "lastOpenFiles": [
+    "Papers/NLP/BERT.md",
     "Papers/NLP",
     "AI/Data/Over Sampling.md",
-    "Papers/NLP/BERT.md",
     "Papers",
     "AI/Data/클래스 불균형.md",
     "AI/DL/Optimization.md",
@@ -214,7 +214,6 @@
     "Java",
     "images/Pasted image 20250710230915.png",
     "images/Pasted image 20250710231734.png",
-    "images",
     "images/Pasted image 20250710231012.png",
     "Welcome.md"
   ]
