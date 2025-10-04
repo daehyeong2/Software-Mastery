@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Object Detection"
             }
+          },
+          {
+            "id": "80a7ddadcf571f9f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35d0409184dc5e1a",
+  "active": "80a7ddadcf571f9f",
   "lastOpenFiles": [
     "AI/DL/Faster R-CNN.md",
     "Papers/NLP/BERT.md",
