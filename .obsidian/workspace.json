@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DL/모델 평가 지표.md",
+                "file": "Algorithm/Bipartite Graph/Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "모델 평가 지표"
+              "title": "Matching"
             }
           }
         ]
@@ -182,6 +182,12 @@
   },
   "active": "35d0409184dc5e1a",
   "lastOpenFiles": [
+    "Pasted image 20251017135913.png",
+    "Algorithm/Bipartite Graph/Vertex Cover.md",
+    "Algorithm/Bipartite Graph/Matching.md",
+    "AI/DL/모델 평가 지표.md",
+    "Algorithm/Bipartite Graph",
+    "Algorithm",
     "AI/DL/Object Detection.md",
     "AI/DL/Faster R-CNN.md",
     "Papers/NLP/BERT.md",
@@ -194,7 +200,6 @@
     "AI/DL/VGGNet.md",
     "Data Structure",
     "AI/DL/GoogleNet.md",
-    "AI/DL/모델 평가 지표.md",
     "AI/DL/CNN (Convolutional Neural Network).md",
     "AI/Data/Under Sampling.md",
     "Spring/JPA/Multi-Tenancy.md",
@@ -210,8 +215,6 @@
     "AI",
     "ff.md",
     "AI/ML",
-    "React",
-    "Java",
     "images/Pasted image 20250710230915.png",
     "images/Pasted image 20250710231734.png",
     "images/Pasted image 20250710231012.png",
