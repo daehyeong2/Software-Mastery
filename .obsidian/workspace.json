@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Bipartite Graph/Matching.md",
+                "file": "AI/Object Detection/Learning with multiple 2D plane image.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matching"
+              "title": "Learning with multiple 2D plane image"
             }
           }
         ]
@@ -182,9 +182,12 @@
   },
   "active": "35d0409184dc5e1a",
   "lastOpenFiles": [
+    "AI/Data/클래스 불균형.md",
+    "AI/Object Detection/Learning with multiple 2D plane image.md",
+    "AI/Object Detection",
+    "Algorithm/Bipartite Graph/Matching.md",
     "Pasted image 20251017135913.png",
     "Algorithm/Bipartite Graph/Vertex Cover.md",
-    "Algorithm/Bipartite Graph/Matching.md",
     "AI/DL/모델 평가 지표.md",
     "Algorithm/Bipartite Graph",
     "Algorithm",
@@ -194,7 +197,6 @@
     "Papers/NLP",
     "AI/Data/Over Sampling.md",
     "Papers",
-    "AI/Data/클래스 불균형.md",
     "AI/DL/Optimization.md",
     "Data Structure/ADT (Abstract Data Type).md",
     "AI/DL/VGGNet.md",
@@ -214,7 +216,6 @@
     "AI/DL",
     "AI",
     "ff.md",
-    "AI/ML",
     "images/Pasted image 20250710230915.png",
     "images/Pasted image 20250710231734.png",
     "images/Pasted image 20250710231012.png",
