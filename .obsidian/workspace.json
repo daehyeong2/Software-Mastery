@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed0bde83d78f69d4",
+        "id": "1b6ec68a30644a78",
         "type": "tabs",
         "children": [
           {
-            "id": "1052fd0529092e46",
+            "id": "5eadd78603306905",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/JPA/Multi-Tenancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Multi-Tenancy"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/JPA/Multi-Tenancy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Multi-Tenancy"
+              "title": "Outgoing links"
             }
           },
           {
@@ -131,9 +129,33 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "f44ca36ca47695ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c309461206eb6131",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,10 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2b42c6686310db2",
+  "active": "5eadd78603306905",
   "lastOpenFiles": [
-    "AI/Data/클래스 불균형.md",
+    "Untitled.base",
+    "AI/Object Detection/Mid Fusion.md",
     "AI/Object Detection/Learning with multiple 2D plane image.md",
+    "AI/Data/클래스 불균형.md",
     "AI/Object Detection",
     "Algorithm/Bipartite Graph/Matching.md",
     "Pasted image 20251017135913.png",
